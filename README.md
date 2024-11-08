@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23D048FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+the+Profile+of+Emilio+Guillén%2C+Innovative+Professional+in+Business+and+Technology!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Emilio+Guillén+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
