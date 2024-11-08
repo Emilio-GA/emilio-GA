@@ -4,7 +4,8 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Emilio Guillén Álvarez** 
+- :credit_card: My full name is **Emilio Guillén Álvarez**
+- :home: I'm from **Granada, Spain** 
 - :school: I'm currently studying my fourth year of Computer Engineering and Business Management in **Univerzita Hradec Králové**
 - :earth_asia: I'm living now in **Hradec Králové, Czech Republic**
 
