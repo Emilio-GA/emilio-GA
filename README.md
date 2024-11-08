@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Emilio+Guillén+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%23F5F5DC&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Emilio+Guillén+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
+
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Emilio Guillén Álvarez** 
